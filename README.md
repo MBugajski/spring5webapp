@@ -1,0 +1,1 @@
+A basic web app made with Spring 5.
